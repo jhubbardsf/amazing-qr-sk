@@ -1,0 +1,11 @@
+{
+	"prettier.bracketSameLine": true,
+	"prettier.singleQuote": true,
+	"prettier.useTabs": true,
+	"prettier.trailingComma": "es5",
+	"prettier.tabWidth": 2,
+	"editor.formatOnSave": true,
+	"[svelte]": {
+		"editor.defaultFormatter": "svelte.svelte-vscode"
+	}
+}
